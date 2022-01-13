@@ -1,5 +1,4 @@
-//Made by Satyam Sharma
-import 'package:flutter/cupertino.dart' // removed semicolon from here
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
